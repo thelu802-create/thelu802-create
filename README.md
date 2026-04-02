@@ -36,7 +36,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelu802-create&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=thelu802-create&theme=radical)
 
 ---
 
