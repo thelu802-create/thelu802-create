@@ -42,8 +42,7 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [Learn English App](https://github.com/thelu802-create/learnEng)  
-  👉 App luyện tiếng Anh (grammar, speaking, exercises)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thelu802-create&repo=learnEng&theme=tokyonight)](https://github.com/thelu802-create/learnEng)
 
 ---
 
