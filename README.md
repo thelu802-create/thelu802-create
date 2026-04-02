@@ -42,7 +42,7 @@
 
 ## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thelu802-create&repo=learnEng&theme=tokyonight)](https://github.com/thelu802-create/learnEng)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=thelu802-create&repo=learnEng&theme=tokyonight&description_lines_count=2&v=2)](https://github.com/thelu802-create/learnEng)
 
 ---
 
